@@ -90,7 +90,7 @@ class DefaultChipBuilder extends ChipBuilder {
           child: Container(
             margin: margin,
             padding: padding,
-            child: Icon(chip, color: badgeColor, size: 14),
+            child: Icon(chip, color: badgeColor, size: 12),
           ),
         ),
       );
